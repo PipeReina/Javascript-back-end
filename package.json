@@ -1,0 +1,32 @@
+{
+  "name": "javascript---back---end",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendisaje para S6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PipeReina/Javascript-back-end.git"
+  },
+  "keywords": [
+    "arreglos",
+    "funciones",
+    "objetos"
+  ],
+  "author": "Pipe Reina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PipeReina/Javascript-back-end/issues"
+  },
+  "homepage": "https://github.com/PipeReina/Javascript-back-end#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
